@@ -63,9 +63,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sucret1921&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sucret1921&layout=compact&theme=dark&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com?user=Sucret1921&theme=dark&hide_border=true)
 
 </div>
@@ -90,7 +87,9 @@ sucret1921@kali:~$ _
 
 ### 🐍 Contribution snake
 
-![Snake](https://raw.githubusercontent.com/Sucret1921/Sucret1921/output/snake.svg)
+![Snake dark](https://raw.githubusercontent.com/Sucret1921/Sucret1921/output/snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/Sucret1921/Sucret1921/output/snake.svg#gh-light-mode-only)
+
 
 ---
 
