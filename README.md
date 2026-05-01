@@ -1,6 +1,6 @@
 <div align="center">
 
-> whoami: dev who breaks things before the bad guys do
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=500&lines=whoami%3A+developer+%7C+security+researcher;web+apps+%C2%B7+APIs+%C2%B7+automation+tools;blue+team+%C2%B7+OWASP+%C2%B7+malware+analysis;CTFs+%C2%B7+pentesting+%C2%B7+network+forensics;always+learning%2C+always+breaking+things+(ethically))
 
 </div>
 
@@ -61,8 +61,14 @@
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Sucret1921&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sucret1921&layout=compact&theme=dark&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=Sucret1921&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -82,10 +88,20 @@ sucret1921@kali:~$ _
 
 ---
 
+### 🐍 Contribution snake
+
+![Snake](https://raw.githubusercontent.com/Sucret1921/Sucret1921/output/snake.svg)
+
+---
+
 > *"Companies spend millions on firewalls and encryption — it's money wasted, because none of these measures address the weakest link in the security chain: the people."*
 >
 > — **Kevin Mitnick**, The Art of Deception
 
 ---
 
+<div align="center">
+
 📬 Open to collaborations, CTF teams & interesting projects · DMs open
+
+</div>
