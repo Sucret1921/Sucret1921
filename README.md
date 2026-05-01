@@ -27,15 +27,34 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 🔐 Security arsenal
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=flat&logo=linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-2D2D2D?style=flat&logo=linux&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1a1a1a?style=flat&logo=linux&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-4B0082?style=flat&logo=linux&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat&logo=linux&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-1D9E75?style=flat&logo=linux&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-333333?style=flat&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Dirb](https://img.shields.io/badge/Dirb-1a1a1a?style=flat&logo=linux&logoColor=white)
 
 ---
 
