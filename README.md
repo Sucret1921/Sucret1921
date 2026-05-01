@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=500&lines=whoami%3A+developer+%7C+security+researcher;web+apps+%C2%B7+APIs+%C2%B7+automation+tools;blue+team+%C2%B7+OWASP+%C2%B7+malware+analysis;CTFs+%C2%B7+pentesting+%C2%B7+network+forensics;always+learning%2C+always+breaking+things+(ethically))
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&lines=whoami%3A+developer+%7C+security+researcher;web+apps+%C2%B7+APIs+%C2%B7+automation+tools;blue+team+%C2%B7+OWASP+%C2%B7+malware+analysis;CTFs+%C2%B7+pentesting+%C2%B7+network+forensics;always+learning%2C+always+breaking+things+(ethically))
 
 </div>
 
