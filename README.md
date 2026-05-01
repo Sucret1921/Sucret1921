@@ -1,4 +1,6 @@
-# Sucret1921-Sucret1921
+<div align="center">
+
+> whoami: dev who breaks things before the bad guys do
 
 </div>
 
@@ -64,7 +66,7 @@
 
 ---
 
-### Terminal
+### 💻 Terminal
 
 ```bash
 sucret1921@kali:~$ whoami --full
@@ -87,4 +89,3 @@ sucret1921@kali:~$ _
 ---
 
 📬 Open to collaborations, CTF teams & interesting projects · DMs open
-
