@@ -71,17 +71,11 @@
 
 ### 💻 Terminal
 
-```bash
-sucret1921@kali:~$ whoami --full
-[+] developer | security researcher | builder | problem solver
+<div align="center">
 
-sucret1921@kali:~$ cat skills.txt
-[+] web apps · APIs · automation tools
-[+] blue team · OWASP · malware analysis · forensics
-[+] CTFs · pentesting · network analysis
+![Terminal](https://raw.githubusercontent.com/Sucret1921/Sucret1921/main/terminal.svg)
 
-sucret1921@kali:~$ _
-```
+</div>
 
 ---
 
