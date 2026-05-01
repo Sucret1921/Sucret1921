@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&lines=whoami%3A+developer+%7C+security+researcher;web+apps+%C2%B7+APIs+%C2%B7+automation+tools;blue+team+%C2%B7+OWASP+%C2%B7+malware+analysis;CTFs+%C2%B7+pentesting+%C2%B7+network+forensics;always+learning%2C+always+breaking+things+(ethically))
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&lines=whoami%3A+developer+%7C+security+researcher;web+apps+%C2%B7+APIs+%C2%B7+automation+tools;blue+team+%C2%B7+OWASP+%C2%B7+malware+analysis;CTFs+%C2%B7+pentesting+%C2%B7+network+forensics;always+learning%2C+always+breaking+(ethically))
 
 </div>
 
@@ -96,6 +96,8 @@
 
 <div align="center">
 
-📬 Open to collaborations, CTF teams & interesting projects · DMs open
+[![Email](https://img.shields.io/badge/open_to_collabs-DMs_open-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![CTF](https://img.shields.io/badge/CTF_teams-looking_for_squad-cc0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Sucret1921)
+[![Projects](https://img.shields.io/badge/interesting_projects-let's_build-0033aa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sucret1921)
 
 </div>
