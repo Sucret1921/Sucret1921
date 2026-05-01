@@ -41,21 +41,22 @@
 
 ### 🚀 Projects & areas
 
-| Area | Description |
-|------|-------------|
-| 🌐 **Web apps & APIs** | Full stack with secure architecture and performance in mind |
-| 🔧 **Security tools** | Custom scripts for scanning, analysis & recon automation |
-| 🦠 **Malware analysis** | Static/dynamic analysis, reverse engineering & memory forensics |
-| ⚙️ **Automation** | Scripts that do the heavy lifting — recon, reporting & more |
+> 🌐 **Web apps & APIs** — Full stack with secure architecture and performance in mind
+
+> 🔧 **Security tools** — Custom scripts for scanning, analysis & recon automation
+
+> 🦠 **Malware analysis** — Static/dynamic analysis, reverse engineering & memory forensics
+
+> ⚙️ **Automation** — Scripts that do the heavy lifting — recon, reporting & more
 
 ---
 
 ### 🛡️ Security focus
 
-| | |
-|--|--|
-| 🔵 **Blue Team** — SIEM, hardening, incident response | 🕵️ **OWASP Top 10** — SQLi, XSS, CSRF, IDOR |
-| 📡 **Networks & Forensics** — traffic, protocols, memory | 🎯 **CTF & Pentesting** — web, reversing, osint |
+![Blue Team](https://img.shields.io/badge/🔵_Blue_Team-SIEM_·_hardening_·_incident_response-0033aa?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/🕵️_OWASP_Top_10-SQLi_·_XSS_·_CSRF_·_IDOR-cc0000?style=for-the-badge)
+![Networks](https://img.shields.io/badge/📡_Networks_%26_Forensics-traffic_·_protocols_·_memory-006688?style=for-the-badge)
+![CTF](https://img.shields.io/badge/🎯_CTF_%26_Pentesting-web_·_reversing_·_osint-1D9E75?style=for-the-badge)
 
 ---
 
